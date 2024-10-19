@@ -1,0 +1,11 @@
+<?php require 'templates/header.phtml'?>
+
+<div class="card mb-3">
+    <img src="" class="card-img-top " alt="">
+    <div class="card-body">
+        <h5 class="card-title"><?= $producto[0]->producto ?></h5>
+        <p class="card-text">$ <?= $producto[0]->precio?></p>
+        <p class="card-text"><small class="text-muted"><?=$producto[0]->Nombre?></small></p>
+    </div>
+</div>
+<?php require 'templates/footer.phtml'?>
