@@ -18,3 +18,5 @@ Pasos para Desplegar:
 Información de Acceso
 Usuario Administrador: webadmin
 Contraseña: ‘hola’
+
+ACLARACION: Descargar el zip completo, pero guardar la carpeta en htdocs con el nombre TrabajoPracticoEspecial
